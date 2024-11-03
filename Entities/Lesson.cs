@@ -5,6 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Projeto_plataforma_ensino.Entities {
-    internal class Lesson {
+    abstract class Lesson {
+
+        public string title { get; set; }
+
+        protected Lesson(string title) {
+            this.title = title;
+        }
+
+        public int duration() {
+            return 0;
+        }
     }
 }

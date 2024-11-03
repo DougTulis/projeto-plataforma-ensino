@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto-plataforma-ensino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0136ec363bd5b2baddae76276fa6d3f953d3c7ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2f6846fd37d280e2b03299e00974ff461c17aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto-plataforma-ensino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto-plataforma-ensino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
