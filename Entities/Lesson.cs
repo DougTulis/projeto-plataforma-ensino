@@ -13,8 +13,6 @@ namespace Projeto_plataforma_ensino.Entities {
             this.title = title;
         }
 
-        public int duration() {
-            return 0;
-        }
+        public abstract int Duration();
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\bin\Debug\net8.0\Projeto-plataforma-ensino.exe
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\bin\Debug\net8.0\Projeto-plataforma-ensino.deps.json
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\bin\Debug\net8.0\Projeto-plataforma-ensino.runtimeconfig.json
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\bin\Debug\net8.0\Projeto-plataforma-ensino.dll
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\bin\Debug\net8.0\Projeto-plataforma-ensino.pdb
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.AssemblyInfoInputs.cache
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.AssemblyInfo.cs
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.sourcelink.json
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.dll
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\refint\Projeto-plataforma-ensino.dll
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.pdb
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\Projeto-plataforma-ensino.genruntimeconfig.cache
+C:\Users\Família\source\repos\Projeto-plataforma-ensino\Projeto-plataforma-ensino\obj\Debug\net8.0\ref\Projeto-plataforma-ensino.dll

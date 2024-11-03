@@ -14,5 +14,9 @@ namespace Projeto_plataforma_ensino.Entities {
             this.url = url;
             this.seconds = seconds;
         }
+
+        public override int Duration() {
+            return seconds;
+        }
     }
 }

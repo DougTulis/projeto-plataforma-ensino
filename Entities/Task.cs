@@ -17,5 +17,8 @@ namespace Projeto_plataforma_ensino.Entities {
             this.questionCount = questionCount;
         }
 
+        public override int Duration() {
+            return questionCount * 300;
+        }
     }
 }
